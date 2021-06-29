@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'rlongo6@fordham.edu';
+$siteOwnersEmail = "rlongo6@fordham.edu";
 
 
 if($_POST) {
